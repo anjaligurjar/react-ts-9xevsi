@@ -18,6 +18,7 @@ form {
   margin: 20px auto;
   width: 300px;
   height: 400px;
+  transform-style: preserve-3d;
 
   border-radius: 40%;
   padding: 20px;
@@ -172,6 +173,7 @@ form div {
   left: 10em;
   filter: opacity(70%);
   display:grid
+  transform-style: preserve-3d;
 }
 
 .circle-aqua {
@@ -180,4 +182,5 @@ form div {
   left: 11em;
   top: -50em;
   filter: opacity(70%);
+  transform-style: preserve-3d;
 }
