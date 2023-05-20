@@ -3,6 +3,8 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
+    "@mui/icons-material/Login": "*",
+    "@mui/icons-material/login": "*",
     "@types/react": "^18.2.6",
     "@types/react-dom": "^18.0.2",
     "react": "^18.1.0",
